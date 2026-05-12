@@ -86,7 +86,3 @@ Both are pre-declared in `app.json`.
 - **Build fails on first run:** delete `/android` and `/ios` and re-run `expo run:android` / `expo run:ios` to regenerate them.
 - **Mic not working:** check OS-level permissions for the app.
 - **Ollama unreachable:** confirm Ollama is running with `OLLAMA_HOST=0.0.0.0` and the phone is on the same network.
-
-## License
-
-Private.
